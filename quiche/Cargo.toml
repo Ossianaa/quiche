@@ -85,4 +85,4 @@ mio = { version = "0.8", features = ["net", "os-poll"] }
 url = "2.5"
 
 [lib]
-crate-type = ["lib", "staticlib", "cdylib"]
+crate-type = ["staticlib"]
